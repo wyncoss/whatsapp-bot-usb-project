@@ -1,0 +1,15 @@
+{
+  "name": "bot-node-example-main",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp para el curso de programación web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
